@@ -1,0 +1,3 @@
+How to use-
+
+Simple just go to prefab folder and drag an drop
